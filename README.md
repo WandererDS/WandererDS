@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java with Spring Boot & REST API
 
-- 💞️ I’m looking to collaborate on different projects in order to expand my pool of knowledge and improve my programming skills and good practices 
+- 💞️ I’m looking to collaborate on various projects in order to expand my pool of knowledge and improve my programming skills and good practices 
 
 - 📫 How to reach me: 
 
